@@ -1,15 +1,18 @@
+import { Typography } from "@material-ui/core";
 import React from "react";
 import styled from "styled-components";
 
 const Navbar = () => {
-  return <NavbarStyle></NavbarStyle>;
+  return (
+    <NavbarStyle>
+      <Typography variant="h4">Users</Typography>
+    </NavbarStyle>
+  );
 };
 
 const NavbarStyle = styled.div`
   padding: 25px;
   height: 35px;
-  display: flex;
-  flex-direction: row;
   background-color: #b7ddf7;
 `;
 

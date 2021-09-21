@@ -11,7 +11,6 @@ function* handleFetchAllUsers(): Generator<
 > {
   try {
     const res = yield call(fetchAllUsers);
-
     yield put(getAllUsersSucces(res));
   } catch (err) {
     console.error(err);

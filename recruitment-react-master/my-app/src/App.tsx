@@ -1,14 +1,7 @@
 import React from "react";
-import Navbar from "./Components/Navbar/Navbar";
 import Users from "./Components/Users/Users";
 
-function App() {
-  return (
-    <>
-      <Navbar />
-      <Users />
-    </>
-  );
+function App(props: any) {
+  return <Users />;
 }
-
 export default App;
