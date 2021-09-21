@@ -6,23 +6,24 @@ import reportWebVitals from "./reportWebVitals";
 import { createStore, applyMiddleware, combineReducers } from "redux";
 import createSagaMiddleware from "redux-saga";
 import { Provider } from "react-redux";
-// import booksReducer from "./Redux/Store/reducers";
+import usersReducer from "./Redux/Store/reducers/usersReducer";
+import rootSaga from "./Redux/Saga/usersSaga";
 
 const configureStore = () => {
-  const rootReducers = combineReducers({});
+  const rootReducers = combineReducers({ usersReducer });
   const sagaMiddleware = createSagaMiddleware();
   const store = createStore(rootReducers, applyMiddleware(sagaMiddleware));
-  // sagaMiddleware.run(rootSaga);
+  sagaMiddleware.run(rootSaga);
 
   return store;
 };
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Provider store={configureStore()}>
+  <Provider store={configureStore()}>
+    <React.StrictMode>
       <App />
-    </Provider>
-  </React.StrictMode>,
+    </React.StrictMode>
+  </Provider>,
   document.getElementById("root")
 );
 
