@@ -1,0 +1,3126 @@
+{
+  "users": [
+    {
+      "id": 186,
+      "addressId": 242,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 465,
+      "addressId": 1792,
+      "company": {
+        "id": 249,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader Copenhagen",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.3671825,
+        "lat": 56.9549102
+      },
+      "primaryTradeType": "buyer",
+      "userId": 267,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 191,
+      "addressId": 249,
+      "company": {
+        "id": 89,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.720473,
+        "lat": 56.959505
+      },
+      "primaryTradeType": "",
+      "userId": 90,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 467,
+      "addressId": 1886,
+      "company": {
+        "id": 251,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.6064205,
+        "lat": 55.6793565
+      },
+      "primaryTradeType": "",
+      "userId": 269,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 193,
+      "addressId": 252,
+      "company": {
+        "id": 90,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "KNJ IT (invoice address)",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.7607022,
+        "lat": 55.2252576
+      },
+      "primaryTradeType": "",
+      "userId": 92,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 470,
+      "addressId": 1974,
+      "company": {
+        "id": 184,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Ales Gård",
+        "productionTypes": [
+          "pigs",
+          "eggs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.0122287,
+        "lat": 52.2296756
+      },
+      "primaryTradeType": "buyer",
+      "userId": 189,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 195,
+      "addressId": 255,
+      "company": {
+        "id": 91,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader ApS",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5518315,
+        "lat": 55.671671
+      },
+      "primaryTradeType": "",
+      "userId": 93,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 504,
+      "addressId": 2043,
+      "company": {
+        "id": 253,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "JuneCom",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 26.1176302,
+        "lat": 44.41257909999999
+      },
+      "primaryTradeType": "",
+      "userId": 304,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 197,
+      "addressId": 258,
+      "company": {
+        "id": 92,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "ATR Landhandel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.2249251,
+        "lat": 56.142429
+      },
+      "primaryTradeType": "",
+      "userId": 91,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 505,
+      "addressId": 2228,
+      "company": {
+        "id": 254,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "PENNINGHØJ V/ LASSE BUHL NIELSEN",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.586162,
+        "lat": 55.84693499999999
+      },
+      "primaryTradeType": "buyer",
+      "userId": 340,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 199,
+      "addressId": 261,
+      "company": {
+        "id": 93,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "hurlumhejgården",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5584171,
+        "lat": 55.6911267
+      },
+      "primaryTradeType": "",
+      "userId": 94,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 506,
+      "addressId": 2231,
+      "company": {
+        "id": 255,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Laue Fromm-Christiansen Skau",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.6090578,
+        "lat": 55.211962
+      },
+      "primaryTradeType": "",
+      "userId": 341,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 201,
+      "addressId": 264,
+      "company": {
+        "id": 94,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 95,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 203,
+      "addressId": 267,
+      "company": {
+        "id": 95,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 96,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 510,
+      "addressId": 2307,
+      "company": {
+        "id": 259,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 2,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "seller",
+      "userId": 344,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 205,
+      "addressId": 270,
+      "company": {
+        "id": 96,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion A/S",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5601928,
+        "lat": 55.6730892
+      },
+      "primaryTradeType": "",
+      "userId": 97,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 515,
+      "addressId": 2344,
+      "company": {
+        "id": 262,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Adrian's Tradehouse",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 23.3509575,
+        "lat": 50.1931255
+      },
+      "primaryTradeType": "",
+      "userId": 348,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 207,
+      "addressId": 274,
+      "company": {
+        "id": 97,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 98,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 518,
+      "addressId": 2462,
+      "company": {
+        "id": 265,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Mill",
+        "userTypeIdentifier": "mill"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 351,
+      "userTypeIdentifier": "mill"
+    },
+    {
+      "id": 211,
+      "addressId": 279,
+      "company": {
+        "id": 99,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion",
+        "productionTypes": [
+          "pigs",
+          "chicken"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.3815009,
+        "lat": 55.3950083
+      },
+      "primaryTradeType": "seller",
+      "userId": 99,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 519,
+      "addressId": 2485,
+      "company": {
+        "id": 267,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "ENTER Michal Straczek",
+        "productionTypes": [
+          "cattle"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 20,
+      "position": {
+        "lng": 21.982039,
+        "lat": 50.038315
+      },
+      "primaryTradeType": "seller",
+      "userId": 355,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 215,
+      "addressId": 284,
+      "company": {
+        "id": 93,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "hurlumhejgården",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.3896719,
+        "lat": 56.949551
+      },
+      "primaryTradeType": "",
+      "userId": 94,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 216,
+      "addressId": 286,
+      "company": {
+        "id": 101,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Bent Gaard A/S",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.33872,
+        "lat": 55.421058
+      },
+      "primaryTradeType": "",
+      "userId": 101,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 218,
+      "addressId": 289,
+      "company": {
+        "id": 102,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Gårdnavn",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.335555,
+        "lat": 55.392346
+      },
+      "primaryTradeType": "",
+      "userId": 102,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 251,
+      "addressId": 322,
+      "company": {
+        "id": 135,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "YHE Holding ApS",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.472102,
+        "lat": 56.653988
+      },
+      "primaryTradeType": "",
+      "userId": 135,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 253,
+      "addressId": 324,
+      "company": {
+        "id": 96,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion A/S",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.3815009,
+        "lat": 55.3950083
+      },
+      "primaryTradeType": "",
+      "userId": 97,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 255,
+      "addressId": 327,
+      "company": {
+        "id": 136,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "Dineshøj1",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 5,
+      "position": {
+        "lng": 11.719901,
+        "lat": 55.541701
+      },
+      "primaryTradeType": "seller",
+      "userId": 137,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 260,
+      "addressId": 334,
+      "company": {
+        "id": 138,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Familiegård igennem 3 generationer",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "Askelygård",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.0142494,
+        "lat": 55.618942
+      },
+      "primaryTradeType": "",
+      "userId": 139,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 262,
+      "addressId": 336,
+      "company": {
+        "id": 137,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "dineshøj",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.7227094,
+        "lat": 55.53924060000001
+      },
+      "primaryTradeType": "",
+      "userId": 138,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 263,
+      "addressId": 338,
+      "company": {
+        "id": 139,
+        "agricultureTypes": [],
+        "description": "test",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 140,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 269,
+      "addressId": 345,
+      "company": {
+        "id": 140,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Bukkerupgård",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 10,
+      "position": {
+        "lng": 11.7967361,
+        "lat": 55.595479
+      },
+      "primaryTradeType": "",
+      "userId": 141,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 271,
+      "addressId": 348,
+      "company": {
+        "id": 141,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Firmannavn",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.33872,
+        "lat": 55.421058
+      },
+      "primaryTradeType": "",
+      "userId": 144,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 273,
+      "addressId": 351,
+      "company": {
+        "id": 142,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 145,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 306,
+      "addressId": 384,
+      "company": {
+        "id": 175,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5601928,
+        "lat": 55.6730892
+      },
+      "primaryTradeType": "",
+      "userId": 178,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 308,
+      "addressId": 386,
+      "company": {
+        "id": 93,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "hurlumhejgården",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 11,
+      "position": {
+        "lng": 11.779691,
+        "lat": 55.576603
+      },
+      "primaryTradeType": "",
+      "userId": 94,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 310,
+      "addressId": 389,
+      "company": {
+        "id": 176,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Sophiedal",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.063297,
+        "lat": 54.886356
+      },
+      "primaryTradeType": "",
+      "userId": 181,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 318,
+      "addressId": 401,
+      "company": {
+        "id": 180,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Gavnø gods",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.725112,
+        "lat": 55.18883899999999
+      },
+      "primaryTradeType": "",
+      "userId": 183,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 326,
+      "addressId": 411,
+      "company": {
+        "id": 182,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Peter Land",
+        "productionTypes": [
+          "cattle"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.33872,
+        "lat": 55.421058
+      },
+      "primaryTradeType": "",
+      "userId": 187,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 328,
+      "addressId": 414,
+      "company": {
+        "id": 183,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commodi",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.596093,
+        "lat": 55.710892
+      },
+      "primaryTradeType": "",
+      "userId": 188,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 330,
+      "addressId": 417,
+      "company": {
+        "id": 184,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Ales Gård",
+        "productionTypes": [
+          "pigs",
+          "eggs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.367276,
+        "lat": 56.952791
+      },
+      "primaryTradeType": "",
+      "userId": 189,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 332,
+      "addressId": 420,
+      "company": {
+        "id": 185,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Villaknausen",
+        "productionTypes": [
+          "chicken",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.3764235,
+        "lat": 56.9495495
+      },
+      "primaryTradeType": "",
+      "userId": 190,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 334,
+      "addressId": 423,
+      "company": {
+        "id": 186,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Nordvest Foder A/S",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.322110000000002,
+        "lat": 56.77793399999999
+      },
+      "primaryTradeType": "",
+      "userId": 191,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 336,
+      "addressId": 426,
+      "company": {
+        "id": 187,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "The Forever Farm",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.9574682,
+        "lat": 55.3278413
+      },
+      "primaryTradeType": "",
+      "userId": 192,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 338,
+      "addressId": 429,
+      "company": {
+        "id": 188,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "knud",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 193,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 340,
+      "addressId": 431,
+      "company": {
+        "id": 93,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "hurlumhejgården",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.0265684,
+        "lat": 56.5433633
+      },
+      "primaryTradeType": "",
+      "userId": 94,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 188,
+      "addressId": 244,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.3896719,
+        "lat": 56.949551
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 208,
+      "addressId": 275,
+      "company": {
+        "id": 97,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.501785,
+        "lat": 56.26392
+      },
+      "primaryTradeType": "",
+      "userId": 98,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 213,
+      "addressId": 282,
+      "company": {
+        "id": 100,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "KNJ IT",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 100,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 254,
+      "addressId": 325,
+      "company": {
+        "id": 96,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion A/S",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.3815009,
+        "lat": 55.3950083
+      },
+      "primaryTradeType": "",
+      "userId": 97,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 257,
+      "addressId": 330,
+      "company": {
+        "id": 137,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "dineshøj",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.721781,
+        "lat": 55.532445
+      },
+      "primaryTradeType": "",
+      "userId": 138,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 265,
+      "addressId": 340,
+      "company": {
+        "id": 138,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Familiegård igennem 3 generationer",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "Askelygård",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.8655056,
+        "lat": 55.6415381
+      },
+      "primaryTradeType": "",
+      "userId": 139,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 267,
+      "addressId": 342,
+      "company": {
+        "id": 136,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": "https://via.placeholder.com/150",
+        "name": "Dineshøj1",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.7228,
+        "lat": 55.538238
+      },
+      "primaryTradeType": "",
+      "userId": 137,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 312,
+      "addressId": 392,
+      "company": {
+        "id": 177,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Søgaarde",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.512141,
+        "lat": 54.741537
+      },
+      "primaryTradeType": "",
+      "userId": 182,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 314,
+      "addressId": 395,
+      "company": {
+        "id": 178,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Nissegården",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.791813999999999,
+        "lat": 54.905513
+      },
+      "primaryTradeType": "",
+      "userId": 184,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 320,
+      "addressId": 403,
+      "company": {
+        "id": 176,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Sophiedal",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.0837761,
+        "lat": 54.906428
+      },
+      "primaryTradeType": "",
+      "userId": 181,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 189,
+      "addressId": 246,
+      "company": {
+        "id": 88,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Gårdmand test",
+        "productionTypes": [
+          "pigs",
+          "chicken",
+          "cattle"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.5385634,
+        "lat": 55.7471067
+      },
+      "primaryTradeType": "",
+      "userId": 89,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 321,
+      "addressId": 404,
+      "company": {
+        "id": 180,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Gavnø gods",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.7548597,
+        "lat": 55.1791738
+      },
+      "primaryTradeType": "",
+      "userId": 183,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 322,
+      "addressId": 405,
+      "company": {
+        "id": 177,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Søgaarde",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.49183,
+        "lat": 54.745031
+      },
+      "primaryTradeType": "",
+      "userId": 182,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 323,
+      "addressId": 407,
+      "company": {
+        "id": 181,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Guldborgsund agro",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.8043766,
+        "lat": 54.8563513
+      },
+      "primaryTradeType": "",
+      "userId": 186,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 325,
+      "addressId": 409,
+      "company": {
+        "id": 181,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Guldborgsund agro",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 11.760836,
+        "lat": 54.878225
+      },
+      "primaryTradeType": "",
+      "userId": 186,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 343,
+      "addressId": 435,
+      "company": {
+        "id": 189,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Abtion",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5601928,
+        "lat": 55.6730892
+      },
+      "primaryTradeType": "",
+      "userId": 194,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 349,
+      "addressId": 444,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5945028,
+        "lat": 55.7884825
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 351,
+      "addressId": 447,
+      "company": {
+        "id": 193,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "dfghjk",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.3896719,
+        "lat": 56.949551
+      },
+      "primaryTradeType": "",
+      "userId": 201,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 353,
+      "addressId": 450,
+      "company": {
+        "id": 194,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 7.5925157,
+        "lat": 47.5805516
+      },
+      "primaryTradeType": "",
+      "userId": 206,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 355,
+      "addressId": 452,
+      "company": {
+        "id": 194,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.293022,
+        "lat": 55.5834194
+      },
+      "primaryTradeType": "",
+      "userId": 206,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 356,
+      "addressId": 541,
+      "company": {
+        "id": 195,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Landbrug",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.2849266,
+        "lat": 55.251601
+      },
+      "primaryTradeType": "",
+      "userId": 207,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 358,
+      "addressId": 544,
+      "company": {
+        "id": 196,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Kirsdal ",
+        "productionTypes": [
+          "pigs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.799652,
+        "lat": 55.960213
+      },
+      "primaryTradeType": "",
+      "userId": 208,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 360,
+      "addressId": 547,
+      "company": {
+        "id": 197,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Driftsfællesskabet Kjargaarden",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 9.092053,
+        "lat": 56.18416999999999
+      },
+      "primaryTradeType": "",
+      "userId": 210,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 466,
+      "addressId": 1806,
+      "company": {
+        "id": 250,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "ENTER Mateusz Trześniowski",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.982039,
+        "lat": 50.038315
+      },
+      "primaryTradeType": "",
+      "userId": 268,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 362,
+      "addressId": 886,
+      "company": {
+        "id": 198,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "chicken"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 214,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 468,
+      "addressId": 1952,
+      "company": {
+        "id": 252,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "SC Ales Ferma SRL",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 24.1751388,
+        "lat": 45.786773
+      },
+      "primaryTradeType": "",
+      "userId": 270,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 364,
+      "addressId": 894,
+      "company": {
+        "id": 199,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 215,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 471,
+      "addressId": 1982,
+      "company": {
+        "id": 252,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "SC Ales Ferma SRL",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 28.6348138,
+        "lat": 44.1598013
+      },
+      "primaryTradeType": "",
+      "userId": 270,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 366,
+      "addressId": 898,
+      "company": {
+        "id": 200,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 217,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 472,
+      "addressId": 1983,
+      "company": {
+        "id": 252,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "SC Ales Ferma SRL",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.3122677,
+        "lat": 46.1865606
+      },
+      "primaryTradeType": "",
+      "userId": 270,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 368,
+      "addressId": 931,
+      "company": {
+        "id": 204,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "eggs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 219,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 507,
+      "addressId": 2262,
+      "company": {
+        "id": 256,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Houstrupgaard I/S",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.6064205,
+        "lat": 55.6793565
+      },
+      "primaryTradeType": "",
+      "userId": 342,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 370,
+      "addressId": 934,
+      "company": {
+        "id": 204,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "eggs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 219,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 511,
+      "addressId": 2332,
+      "company": {
+        "id": 260,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Adrian Lysakowski TradeHouse ",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 20.9763792,
+        "lat": 52.2191445
+      },
+      "primaryTradeType": "",
+      "userId": 346,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 372,
+      "addressId": 937,
+      "company": {
+        "id": 204,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "eggs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 219,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 512,
+      "addressId": 2334,
+      "company": {
+        "id": 260,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Adrian Lysakowski TradeHouse ",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 23.3509575,
+        "lat": 50.1931255
+      },
+      "primaryTradeType": "",
+      "userId": 346,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 374,
+      "addressId": 940,
+      "company": {
+        "id": 204,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "eggs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 219,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 516,
+      "addressId": 2379,
+      "company": {
+        "id": 263,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Circle R&D",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.2691634,
+        "lat": 55.5869033
+      },
+      "primaryTradeType": "",
+      "userId": 349,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 376,
+      "addressId": 944,
+      "company": {
+        "id": 205,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Kasper Johansen",
+        "productionTypes": [
+          "chicken"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 220,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 520,
+      "addressId": 2488,
+      "company": {
+        "id": 268,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Testowa",
+        "productionTypes": [],
+        "translatedUserType": "Advisor",
+        "userTypeIdentifier": "advisor"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.9697488,
+        "lat": 50.0368657
+      },
+      "primaryTradeType": "",
+      "userId": 356,
+      "userTypeIdentifier": "advisor"
+    },
+    {
+      "id": 378,
+      "addressId": 947,
+      "company": {
+        "id": 206,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 222,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 380,
+      "addressId": 950,
+      "company": {
+        "id": 207,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 224,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 382,
+      "addressId": 953,
+      "company": {
+        "id": 208,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 225,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 384,
+      "addressId": 961,
+      "company": {
+        "id": 209,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 226,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 386,
+      "addressId": 964,
+      "company": {
+        "id": 210,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 227,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 388,
+      "addressId": 967,
+      "company": {
+        "id": 211,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "chicken"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 228,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 390,
+      "addressId": 1005,
+      "company": {
+        "id": 212,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Codeboy ApS",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 231,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 392,
+      "addressId": 1010,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 394,
+      "addressId": 1013,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.595224,
+        "lat": 55.7112306
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 396,
+      "addressId": 1017,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5945028,
+        "lat": 55.7884825
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 397,
+      "addressId": 1018,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5945028,
+        "lat": 55.7884825
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 400,
+      "addressId": 1022,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5945028,
+        "lat": 55.7884825
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 402,
+      "addressId": 1025,
+      "company": {
+        "id": 218,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "pigs"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5945028,
+        "lat": 55.7884825
+      },
+      "primaryTradeType": "",
+      "userId": 232,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 404,
+      "addressId": 1028,
+      "company": {
+        "id": 185,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Villaknausen",
+        "productionTypes": [
+          "chicken",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.364849399999999,
+        "lat": 56.9329626
+      },
+      "primaryTradeType": "",
+      "userId": 190,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 405,
+      "addressId": 1032,
+      "company": {
+        "id": 219,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Codeboy ApS",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 241,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 407,
+      "addressId": 1035,
+      "company": {
+        "id": 220,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 242,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 409,
+      "addressId": 1039,
+      "company": {
+        "id": 178,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Nissegården",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.642681,
+        "lat": 54.813707
+      },
+      "primaryTradeType": "",
+      "userId": 184,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 410,
+      "addressId": 1044,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 18.6773678,
+        "lat": 54.400239
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 411,
+      "addressId": 1045,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 10.5971047,
+        "lat": 55.0625667
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 412,
+      "addressId": 1046,
+      "company": {
+        "id": 178,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Nissegården",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 8.9496583,
+        "lat": 56.12556619999999
+      },
+      "primaryTradeType": "",
+      "userId": 184,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 413,
+      "addressId": 1082,
+      "company": {
+        "id": 221,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Julie Fahler",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 244,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 417,
+      "addressId": 1150,
+      "company": {
+        "id": 223,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "TEST",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.250044,
+        "lat": 55.873403
+      },
+      "primaryTradeType": "",
+      "userId": 248,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 421,
+      "addressId": 1287,
+      "company": {
+        "id": 225,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Annamaria Reka Koncz",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 22.3464531,
+        "lat": 48.119894
+      },
+      "primaryTradeType": "",
+      "userId": 250,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 423,
+      "addressId": 1292,
+      "company": {
+        "id": 226,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Codeboy ApS",
+        "productionTypes": [
+          "eggs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 251,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 425,
+      "addressId": 1301,
+      "company": {
+        "id": 232,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "robin",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.2691634,
+        "lat": 55.5869033
+      },
+      "primaryTradeType": "",
+      "userId": 252,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 428,
+      "addressId": 1304,
+      "company": {
+        "id": 184,
+        "agricultureTypes": [
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Ales Gård",
+        "productionTypes": [
+          "pigs",
+          "eggs",
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 24.1719201,
+        "lat": 45.7846768
+      },
+      "primaryTradeType": "",
+      "userId": 189,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 429,
+      "addressId": 1321,
+      "company": {
+        "id": 234,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 253,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 431,
+      "addressId": 1324,
+      "company": {
+        "id": 235,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 254,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 433,
+      "addressId": 1344,
+      "company": {
+        "id": 238,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "SC Elsit Com SRL",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 26.9986087,
+        "lat": 44.5652948
+      },
+      "primaryTradeType": "",
+      "userId": 255,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 435,
+      "addressId": 1347,
+      "company": {
+        "id": 238,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "SC Elsit Com SRL",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 26.9986087,
+        "lat": 44.5652948
+      },
+      "primaryTradeType": "",
+      "userId": 255,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 436,
+      "addressId": 1349,
+      "company": {
+        "id": 238,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "SC Elsit Com SRL",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 26.9986087,
+        "lat": 44.5652948
+      },
+      "primaryTradeType": "",
+      "userId": 255,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 439,
+      "addressId": 1378,
+      "company": {
+        "id": 87,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [
+          "grain"
+        ],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 88,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 441,
+      "addressId": 1425,
+      "company": {
+        "id": 89,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "Daniel",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.0122287,
+        "lat": 52.2296756
+      },
+      "primaryTradeType": "",
+      "userId": 90,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 442,
+      "addressId": 1427,
+      "company": {
+        "id": 90,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "KNJ IT (invoice address)",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 21.0122287,
+        "lat": 52.2296756
+      },
+      "primaryTradeType": "",
+      "userId": 92,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 443,
+      "addressId": 1440,
+      "company": {
+        "id": 239,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Codeboy ApS",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.1872734,
+        "lat": 55.49015420000001
+      },
+      "primaryTradeType": "",
+      "userId": 257,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 445,
+      "addressId": 1451,
+      "company": {
+        "id": 240,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 258,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 455,
+      "addressId": 1493,
+      "company": {
+        "id": 244,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Commoditrader",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.5960354,
+        "lat": 55.7109017
+      },
+      "primaryTradeType": "",
+      "userId": 262,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 469,
+      "addressId": 1954,
+      "company": {
+        "id": 252,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "SC Ales Ferma SRL",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 1,
+      "position": {
+        "lng": 23.9279175,
+        "lat": 46.1802331
+      },
+      "primaryTradeType": "",
+      "userId": 270,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 463,
+      "addressId": 1633,
+      "company": {
+        "id": 248,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Test Company",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 2.2944813,
+        "lat": 48.85837009999999
+      },
+      "primaryTradeType": "",
+      "userId": 266,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 473,
+      "addressId": 1994,
+      "company": {
+        "id": 252,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum.",
+        "logoPath": null,
+        "name": "SC Ales Ferma SRL",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 23.7948807,
+        "lat": 44.3301785
+      },
+      "primaryTradeType": "",
+      "userId": 270,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 508,
+      "addressId": 2291,
+      "company": {
+        "id": 257,
+        "agricultureTypes": [],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "18772299",
+        "productionTypes": [],
+        "translatedUserType": "Trading house",
+        "userTypeIdentifier": "trading_house"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 12.2691634,
+        "lat": 55.5869033
+      },
+      "primaryTradeType": "",
+      "userId": 343,
+      "userTypeIdentifier": "trading_house"
+    },
+    {
+      "id": 513,
+      "addressId": 2338,
+      "company": {
+        "id": 261,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Adrian's Farm",
+        "productionTypes": [
+          "pigs",
+          "eggs",
+          "chicken",
+          "grain",
+          "cattle"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 19.0135786,
+        "lat": 50.3232919
+      },
+      "primaryTradeType": "",
+      "userId": 347,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 514,
+      "addressId": 2340,
+      "company": {
+        "id": 261,
+        "agricultureTypes": [
+          "conventional",
+          "organic"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Adrian's Farm",
+        "productionTypes": [
+          "pigs",
+          "eggs",
+          "chicken",
+          "grain",
+          "cattle"
+        ],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 0,
+      "position": {
+        "lng": 23.3509575,
+        "lat": 50.1931255
+      },
+      "primaryTradeType": "",
+      "userId": 347,
+      "userTypeIdentifier": "farmer"
+    },
+    {
+      "id": 517,
+      "addressId": 2393,
+      "company": {
+        "id": 264,
+        "agricultureTypes": [
+          "conventional"
+        ],
+        "description": "Lorem ipsum dolor sit amet.",
+        "logoPath": null,
+        "name": "Midholm",
+        "productionTypes": [],
+        "translatedUserType": "Farmer",
+        "userTypeIdentifier": "farmer"
+      },
+      "listingsCount": 4,
+      "position": {
+        "lng": 8.316863999999999,
+        "lat": 56.737891
+      },
+      "primaryTradeType": "",
+      "userId": 350,
+      "userTypeIdentifier": "farmer"
+    }
+  ]
+}
