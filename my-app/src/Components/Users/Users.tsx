@@ -6,7 +6,6 @@ import { getAllUsers } from "../../Redux/Actions/users";
 import { CircularProgress, Typography } from "@material-ui/core";
 import { GoogleMap, LoadScript, InfoWindow } from "@react-google-maps/api";
 import { UserType } from "../../Types/types";
-
 const mapStyles = {
   height: "100vh",
   width: "100%",
@@ -25,7 +24,9 @@ const Users = () => {
   const loadingUsers = useSelector(
     (state: RootStateOrAny) => state.usersReducer.loading
   );
+
   const [selectedUser, setSelectedUser] = useState<UserType | null>(null);
+
   useEffect(() => {
     dispatch(getAllUsers());
   }, [dispatch]);
@@ -33,13 +34,18 @@ const Users = () => {
   const onSelectUser = (user: UserType | null) => {
     setSelectedUser(user);
   };
+
   const showInformation = (info: string | string[], name: string) => {
-    return info && info.length > 0 ? (
-      <Typography>
-        <strong>{name}</strong> {info}
-      </Typography>
-    ) : null;
+    return (
+      info &&
+      info.length > 0 && (
+        <Typography>
+          <strong>{name}</strong> {info}
+        </Typography>
+      )
+    );
   };
+
   return (
     <Container>
       {loadingUsers ? (
