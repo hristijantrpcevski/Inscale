@@ -1,14 +1,14 @@
 import React from "react";
 import { Marker } from "@react-google-maps/api";
+import { UserType } from "../../../Types/types";
 
 interface UserProps {
-  user: any;
-  onSelectUser: (user: any) => void;
+  user: UserType;
+  onSelectUser: (user: UserType) => void;
 }
 
 const User: React.FC<UserProps> = ({ user, onSelectUser }) => {
-  const { id, position, listingsCount, userTypeIdentifier, primaryTradeType } =
-    user;
+  const { id, position, listingsCount } = user;
 
   return (
     <Marker

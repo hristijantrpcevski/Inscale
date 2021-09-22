@@ -1,14 +1,10 @@
-import { AxiosResponse } from "axios";
 import { call, put, takeEvery, all, StrictEffect } from "redux-saga/effects";
 import { fetchAllUsers } from "../../Api/usersApi";
+import { UserType } from "../../Types/types";
 import { getAllUsersSucces } from "../Actions/users";
 import { USERS } from "../Constants/users";
 
-function* handleFetchAllUsers(): Generator<
-  StrictEffect,
-  void,
-  AxiosResponse<any>
-> {
+function* handleFetchAllUsers(): Generator<StrictEffect, void, UserType[]> {
   try {
     const res = yield call(fetchAllUsers);
     yield put(getAllUsersSucces(res));

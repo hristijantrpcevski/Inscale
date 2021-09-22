@@ -1,4 +1,5 @@
 import axios from "axios";
+import { UserType } from "../Types/types";
 
 const API = axios.create({
   baseURL: "http://localhost:3000/",
@@ -9,7 +10,7 @@ const API = axios.create({
 });
 
 export const fetchAllUsers = async () => {
-  const res = await API.get("users");
+  const res = await API.get<UserType[]>("users");
 
   return res.data;
 };
